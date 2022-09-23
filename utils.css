@@ -26,9 +26,30 @@
 }
 
 .font-bold{
-    font-weight: bold;
+    font-weight: bolder;
+    align-items: center;
 }
 .my-1{
     margin-top:13px ;
     margin-bottom: 13px;
+}
+.px-2{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.text-blue{
+    color: rgb(101, 101, 212);
+}
+
+.btn{
+    padding: 2px 10px;
+    border: 2px solid white;
+    border-radius:12px  ;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(101, 101, 212);
+}
+.overflow-hidden{
+    overflow: hidden;
 }
