@@ -45,3 +45,10 @@
 .topright .gymimg{
     width: 466px;
 }
+.section2{
+    padding-left:43px;
+    padding-right:43px;
+}
+.section2 h1{
+    font-size: 2rem;
+}
