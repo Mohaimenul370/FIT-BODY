@@ -50,9 +50,27 @@
     padding-right:43px;
 }
 .section2 h1{
-    font-size: 2rem;
+    font-size: 3rem;
 }
 .box{
     margin: 12px 22px;
-    min-width: 33vw;
+    min-width: 20vw;
+    border: 2px solid rgb(72, 95, 185);
+    text-align: center;
+    border-radius: 8px;
+}
+.box h2{
+    font-size: 2rem;
+    padding: 12px 0;
+}
+.highlighted{
+    font-size:2rem;
+    font-weight: bolder ;
+}
+.box ul{
+    list-style-type: none;
+}
+
+.box ul li{
+    margin:12px 2px;
 }
