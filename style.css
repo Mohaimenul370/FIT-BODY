@@ -52,3 +52,7 @@
 .section2 h1{
     font-size: 2rem;
 }
+.box{
+    margin: 12px 22px;
+    min-width: 33vw;
+}
