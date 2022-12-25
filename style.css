@@ -81,8 +81,12 @@
 }
 .section3 table{
     width: 100%;
-    margin: 40px 0;
+    margin-bottom: 140px;
+    margin-top: 40px;
     border-collapse: collapse;
+}
+.section3 td{
+    border-bottom: 2px solid black;
 }
 .section3 table th{
     border-bottom: 2px solid black;
@@ -94,6 +98,9 @@
     font-size: 2.3rem;
 }
 .section3{
-      padding-left: 63px;
-      padding-right: 63px;
+      padding: 73px;
+}
+footer{
+    padding: 23px;
+    text-align: center;
 }
